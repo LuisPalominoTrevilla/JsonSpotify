@@ -1,0 +1,45 @@
+body{
+	background-color: #244922;
+}
+
+.row{
+	padding-top: 5%;
+}
+
+.columns{
+	padding: 5%;
+	
+}
+
+.artist-info{
+	padding-top: 20px;
+	background-color: #122608;
+	height: 200px;
+}
+
+h2{
+	font-size: 16px;
+	color: #ffffff;
+}
+
+h4{
+	font-size: 14px;
+	color: #ffffff;
+}
+
+.button{
+	background-color: #2b660e;
+}
+
+.button:hover{
+	background-color: #1b6d38;
+}
+
+.cont{
+	display: block;
+}
+
+.it{
+	display: inline-block;
+}
+
